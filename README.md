@@ -1,5 +1,7 @@
 # RAPIDS installation for HackTalks workshop
 
+__UPDATE__: Pull the Docker image again to get the complete notebooks! Slides are in the .pdf file and the notebooks are the .ipynb files.
+
 # Any environment
 
 ### Requirements
